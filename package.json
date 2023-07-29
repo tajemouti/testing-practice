@@ -1,0 +1,15 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This an exercise about unit tests in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
